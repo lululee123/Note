@@ -1,0 +1,10 @@
+{
+    "plugins": [
+      "intopic-toc"
+    ],
+    "pluginsConfig": {
+      "intopic-toc": {
+        "label": "In this article"
+      }
+    }
+  }
